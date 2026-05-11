@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://extinguishersales.com/sitemap.xml
